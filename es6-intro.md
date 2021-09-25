@@ -12,7 +12,7 @@
 ## What are the new type of functions called that we will be using in 301?
 ### They are called arrow functions and they are just a more consice way of writing a function
 ## What do the keywords let and const do?
-### 
+### let and const define variables within Javascript
 
 ---
 
