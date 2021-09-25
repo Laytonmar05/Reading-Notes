@@ -4,7 +4,7 @@
 
 # Notes
 What is ES6?
-    Class 01
+   
 ---
 
 ## Resources 
