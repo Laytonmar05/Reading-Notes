@@ -5,7 +5,7 @@
 
 ## 2. How does React know you are referring to a React component?
 
-### It's used to create a class that is a child of another class.
+### The component will be wrapped in </> HTML brackets and will start with a capitol letter.
 
 ## 3. What is `<Header />`, `<Main />` and `<Footer />`?
 
@@ -21,7 +21,7 @@
 
 ## 6. What does the keyword `class` tell us about this App Component?
 
-### It tells is where the class is being created/
+### A class component in React is really just an ES6 class!
 
 ## 7. What does the keyword `extends` do?
 
@@ -29,7 +29,7 @@
 
 ## 8. What data type is React.Component?
 
-### It is a custom class.
+### It is a class.
 
 ## 9. When do you not need to implement a constructor method?
 
