@@ -49,6 +49,7 @@
 
 ## 13. How do you lift state?
 
-### By calling a function in a child component that is being defined in a parent component and passing it a new value for 
-the state property you are trying to update/lift up so that the application can re-render and pass the new values back down in props.
+### By calling a function in a child component that is being defined in a parent component and passing it a new 
+### value for the state property you are trying to update/lift up so that the application can re-render and pass 
+### the new values back down in props.
   
