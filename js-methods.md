@@ -26,7 +26,7 @@
 
 7. What is the Primative Wrapper doing under the hood when you call a method on a variable that holds a number, a string, or a boolean?
 
-- JS will create an object of a coresponding type. Then call the method on the instance. And lastly, JS deletes the instance immediatly after it is finished with it 
+- JS will create an object of a coresponding type. Then call the method on the instance. JS deletes the instance immediatly after it is finished with it 
 and moves onto the next script.
 
 8. What are functions that are binded to an object called?
@@ -47,7 +47,7 @@ and moves onto the next script.
 
 12. How do we use a built-in method on a JavaScript data type?
 
-- We use dot notation on the variable name to invoke the method. ex. let foo = "foo"; let caps = foo.toUpperCase(); console.log(caps) //FOO
+- We use dot notation on the variable name to invoke the method. 
 
 13. What kind of built-in methods are we going to learn about in 301?
 
@@ -65,4 +65,4 @@ and moves onto the next script.
 
 15. How am I suppose to know what to search for in Google?
 
-- an easy way to search for methods that would help solve your algorithm is to use this pattern: -"how to" + :do the thing" + "data type" + "JS"
+- An easy way to search for methods that would help solve your algorithm is to use this pattern: -"how to" + :do the thing" + "data type" + "JS"
