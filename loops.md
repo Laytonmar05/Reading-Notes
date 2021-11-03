@@ -49,8 +49,8 @@ and seperated by semicolons, followed by a statement (usuallty a block statement
 
 10. What is a callback function?
 
-- 
+- A function that is passed as an argument to another function.
 
 11. When do we use a callback function?
 
-- 
+- It can only run after another function has finished and it will most commonly used with Javascript built-in methods.
